@@ -1,0 +1,10 @@
+ 
+npm i react-router-dom
+npm install --save react-router-dom
+npm install --save react-router
+npm install axios
+ npm install --save react-router
+
+npm install --save react-spinners   
+npm install react-bootstrap bootstrap 
+npm i -S reactstrap
